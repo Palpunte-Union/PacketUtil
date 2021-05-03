@@ -1,0 +1,8 @@
+name: PacketUtil
+version: @version@
+main: com.github.eighty88.packets.PacketUtil
+api-version: 1.15
+load: STARTUP
+authors: [ eight_y_88 ]
+description: Packet Events
+website: https://github.com/Palpunte-Union/
